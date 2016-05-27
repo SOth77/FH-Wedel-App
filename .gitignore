@@ -45,3 +45,19 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Extras
+
+*\Temp\*
+*App Source\Library\*
+*App Source\Obj\*
+
+*.apk
+*FH Wedel Test_Data*
+*iOS*
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.DS_store
